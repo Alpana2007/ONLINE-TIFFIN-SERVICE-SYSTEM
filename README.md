@@ -40,19 +40,19 @@ us to access earlier phases.
 
 > HOME PAGE
 
-<img src="image/admin_page.jpg">
+<img src="image/home_page.jpg">
 
 > ORDER PAGE
 
-<img src= "dashboard.php">
+<img src= "image/order_page.jpg">
 
 > ADMIN PAGE
 
-<img src="https://github.com/Alpana2007/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/admin_page.jpg" width="700px" height="450px">
+<img src="image/admin_page.jpg">
 
 > ADMIN DASHBOARD PAGE
 
-<img src="https://github.com/Alpana2007/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/dashboard.jpg" width="700px" height="450px">
+<img src="image/dashboard_page.jpg">
 
 
 ## CONCLUSION
