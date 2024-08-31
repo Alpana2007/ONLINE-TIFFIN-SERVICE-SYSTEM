@@ -40,7 +40,7 @@ us to access earlier phases.
 
 > HOME PAGE
 
-<img src="https://github.com/Alpana2007/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/home.jpg" width="700px" height="450px">
+<img src="image/admin_page.jpg">
 
 > ORDER PAGE
 
