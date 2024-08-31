@@ -44,7 +44,7 @@ us to access earlier phases.
 
 > ORDER PAGE
 
-<img src="https://github.com/Alpana2007/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/order.jpg" width="700px" height="450px">
+<img src= "dashboard.php">
 
 > ADMIN PAGE
 
