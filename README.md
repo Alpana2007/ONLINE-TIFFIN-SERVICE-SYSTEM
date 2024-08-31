@@ -36,25 +36,6 @@ us to access earlier phases.
   
 * PHP
 
-## PROGRAM SCREENSHOTS
-
-> HOME PAGE
-
-<img src="image/home_page.jpg">
-
-> ORDER PAGE
-
-<img src= "image/order_page.jpg">
-
-> ADMIN PAGE
-
-<img src="image/admin_page.jpg">
-
-> ADMIN DASHBOARD PAGE
-
-<img src="image/dashboard_page.jpg">
-
-
 ## CONCLUSION
 This Application provides a computerized and automated version of Online Tiffin Service
 System which will benefit the users who search Tiffin service online. It makes entire process
